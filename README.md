@@ -15,7 +15,7 @@ Para instalar as dependencias do projeto
 
 Um site de culinária mais completo e dinamico possível, com mecanicas de busca de cardápio mais especificas e com um layout bem sofisticado, esse é o Aluroni.
 
-## Tecbnologias usadas:
+## Tecnologias usadas:
 
 - Typescript
 - ReactJs
